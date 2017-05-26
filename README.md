@@ -1,2 +1,8 @@
-# danielstp.github.io
-Daniel Saguez Tezanos Pinto
+# Daniel Saguez Tezanos Pinto
+## C++
+### qjango
+## Java
+### gradle
+### maven
+## Python
+### Django
